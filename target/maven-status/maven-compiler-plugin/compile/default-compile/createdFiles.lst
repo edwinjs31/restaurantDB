@@ -1,0 +1,13 @@
+com\albares\restaurant\api\MenuService.class
+com\albares\restaurant\api\AdminService.class
+com\albares\menuqr\domain\Menu.class
+com\albares\restaurant\api\Api.class
+com\albares\restaurant\utils\JWTUtils.class
+com\albares\restaurant\utils\Parameters.class
+com\albares\menuqr\domain\Dish.class
+com\albares\restaurant\db\DbPool.class
+com\albares\restaurant\utils\ResponseCodes.class
+com\albares\restaurant\db\Db.class
+com\albares\restaurant\utils\Response.class
+com\albares\restaurant\utils\Secrets.class
+com\albares\restaurant\utils\SHAUtils.class
